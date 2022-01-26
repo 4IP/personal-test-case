@@ -1,6 +1,6 @@
 # Test case untuk DevOps Engineer
 
-Kerjakan soal - soal tersebut dan kirimkan link hasil jawabannya serta capture (screenshot) githubnya ke personal telegram saya.
+Kerjakan soal - soal tersebut dan kirimkan link hasil jawabannya serta capture (screenshot) githubnya.
 
 ## Rule Soal
 
